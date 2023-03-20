@@ -1,4 +1,4 @@
-# Desafio Cubos Módulo 2
+# Desafio Cubos Módulo 2 - CuboFlix
 
 Aplicação para um serviço de streaming
 
