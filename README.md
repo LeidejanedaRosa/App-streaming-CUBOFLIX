@@ -1,4 +1,6 @@
+![Cuboflix](/assets/logo.svg)
 # Desafio Cubos Módulo 2 - CuboFlix
+
 
 Aplicação para um serviço de streaming
 
@@ -8,7 +10,7 @@ Aplicação para um serviço de streaming
 | :label: Tecnologias | JavaScript, CSS, HTML, Node.js, Express
 | :rocket: URL         | https://desafio-cubos-modulo02.vercel.app/
 
-![Cuboflix](/assets/logo.svg)
+
 
 ## Detalhes do projeto
 
